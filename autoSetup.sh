@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# All lines in this script are explaines in README
+# All lines in this script are explained in README
 
 python -m venv venv
 source venv/bin/activate
